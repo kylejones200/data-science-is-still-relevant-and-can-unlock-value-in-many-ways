@@ -11,14 +11,7 @@ Ultimately, they can generate competitive advantages over commercial rivals. Dat
 
 Additionally, many organizations now rely in part on citizen data scientists, a group that may include business intelligence (BI) professionals, business analysts, data-savvy business users, data engineers, and other workers with no formal training in data science.
 
-## About
 
-Place the code for this article in this repository.
-The original article export is saved as `article.md`.
-
-## Files
-
-Add your `.ipynb`, `.py`, `.yaml`, `.js`, `.ts`, or other project files here.
 
 ## Disclaimer
 
